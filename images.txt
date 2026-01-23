@@ -3,7 +3,7 @@ redis:7.2.5
 mongo:7.0.12
 minio/minio:latest
 rabbitmq:3.13.3-management
-apache/rocketmq:5.2.1
+apache/rocketmq:5.2.0
 confluentinc/cp-kafka:7.6.1
 elasticsearch:8.12.2
 nacos/nacos-server:v3.0.3
