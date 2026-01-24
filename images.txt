@@ -1,12 +1,2 @@
-mysql:8.0.39
-redis:7.2.5
-mongo:7.0.12
-minio/minio:latest
-rabbitmq:3.13.3-management
-apache/rocketmq:5.2.0
-confluentinc/cp-kafka:7.6.1
-elasticsearch:8.12.2
-nacos/nacos-server:v3.0.3
-nginx:1.25.5
-prom/prometheus:v3.5.0
-grafana/grafana:12.1.1
+provectuslabs/kafka-ui:v0.7.2
+apacherocketmq/rocketmq-dashboard:1.0.0
