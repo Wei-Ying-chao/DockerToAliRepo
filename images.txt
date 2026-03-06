@@ -1,2 +1,1 @@
-provectuslabs/kafka-ui:v0.7.2
-apacherocketmq/rocketmq-dashboard:1.0.0
+openjdk:21-jdk
