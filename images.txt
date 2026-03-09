@@ -1,1 +1,2 @@
-eclipse-temurin:21.0.6_7-jdk
+# eclipse-temurin:21.0.6_7-jdk
+jenkins/jenkins:2.479.3-lts-jdk21
